@@ -180,10 +180,10 @@ print('Initialization is completed')
 
 print('Accessing the tweets')
 
-consumer_key = 'jvFpn9Modp4wRux358JclmCzB'
-consumer_secret = '0aJC3RS2zIQn3sNK37Urwp5BysUd43n5kqzD1uSaQVgnpaOq5d'
-access_token = '320068511-ipjNugQ3ikGLDjuDTvOh5BXjdbd6yhwaPhj82enp'
-access_secret = 'Kb4VW591G5tBmGh88cZQtkDbAYbUpu9PGhI3akXH7Sd2t'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
